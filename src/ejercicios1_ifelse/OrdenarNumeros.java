@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejerciciosifelse;
+package ejercicios1_ifelse;
 
 /**
  *
